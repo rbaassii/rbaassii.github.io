@@ -193,7 +193,7 @@ body{
 	transition:color 0.2s ease-out, border-color 0.3s ease-out;
 }
 .list__item>a:hover{
-	border-color:#ffffff;
+	border-color:#565656;
 }
 .list__item:nth-child(1)>a:hover{
 	color:#000;
