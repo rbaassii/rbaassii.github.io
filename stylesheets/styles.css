@@ -2,8 +2,8 @@
 
 body {
     background:#CCD0D9;
-    font-size: 120%;
     display: block;
+    font-size: 120%;
     font-family: "Lato-Light",sans-serif; 
     max-width: 1680px;
     margin: 0 auto;
@@ -26,14 +26,23 @@ ul{
     padding: 1.2em 4.2em;
     width: 95%;
 
+
+}
+
+a:hover {
+    background: #ffcd5c;
+    color: #FFF;
+    border: #B1B1B1;
 }
 ul li a{
     color: #737373;
     text-decoration: none;
     font-size: 1.2em;
+
 }
 li{
     display: inline-block;
+
 
 }
 
@@ -50,44 +59,4 @@ footer{
 
 
 
-img {
-  max-width:100%;
-}
-
-header {
-  width:270px;
-  float:left;
-  position:fixed;
-}
-
-
-
-
-  header, section, footer {
-    float:none;
-    position:static;
-    width:auto;
-  }
-
-  header {
-    padding-right:320px;
-  }
-
-  section {
-    border:1px solid #e5e5e5;
-    border-width:1px 0;
-    padding:20px 0;
-    margin:0 0 20px;
-  }
-
-  header a small {
-    display:inline;
-  }
-
-  header ul {
-    position:absolute;
-    right:50px;
-    top:52px;
-  }
-}
 
