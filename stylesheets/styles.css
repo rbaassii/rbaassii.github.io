@@ -29,7 +29,7 @@ h1{
     font-size: 0.9em;
     line-height: 1.5em;
     text-align: left;
-    padding: 10px  80px 20px;
+    padding: 10px  80px 10px;
     color: #565656;
     text-decoration: none;
 }
@@ -37,7 +37,7 @@ h1{
 
 ul{ 
     padding: 10px 80px;
-    width: 100;
+    width: 95%;
     list-style: none;
     word-spacing: 1.3em;
 
