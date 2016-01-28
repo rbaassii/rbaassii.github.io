@@ -9,6 +9,9 @@ body {
     max-width: 1680px;
     margin: 0 auto;
 }
+::selection {
+    background: #ffcd5c;
+    }
 
 div{
     font-family: "Lato-Light",sans-serif;
@@ -32,7 +35,7 @@ ul{
 
 a:hover {
     color: #374f65;
-    border-bottom:2px solid #427c93;
+    border-bottom:2px solid #ffcd5c;
     
 
 
