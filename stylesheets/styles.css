@@ -24,6 +24,16 @@ div{
 
 }
 
+h1{
+    font-family: "Lato-Light",sans-serif;
+    font-size: 0.9em;
+    line-height: 1.5em;
+    text-align: left;
+    padding: 20px  80px 80px;
+    color: #565656;
+    text-decoration: none;
+}
+
 
 ul{ 
     padding: 10px 80px;
