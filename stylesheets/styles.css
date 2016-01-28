@@ -10,9 +10,8 @@ body {
     margin: 0 auto;
 }
 ::selection {
-    background: #ffcd5c;
-    }
-
+    background: #eaf713;
+}
 div{
     font-family: "Lato-Light",sans-serif;
     font-size: 3.3em;
@@ -29,14 +28,14 @@ h1{
     font-size: 0.9em;
     line-height: 1.5em;
     text-align: left;
-    padding: 10px  80px 10px;
+    padding: 10px  80px 40px;
     color: #565656;
     text-decoration: none;
 }
 
 
 ul{ 
-    padding: 10px 80px;
+    padding: 20px  80px 80px;
     width: 95%;
     list-style: none;
     word-spacing: 1.3em;
@@ -45,14 +44,14 @@ ul{
 
 a:hover {
     color: #374f65;
-    border-bottom:2px solid #ffcd5c;
-    
+    border-bottom:2px solid #427c93;
+
 
 
 
 }
 ul li a{
-    color: #737373;
+    color: #565656;
     text-decoration: none;
     font-size: 1.2em;
 
@@ -73,6 +72,7 @@ footer{
     display: block;
     
 }
+
 
 
 
