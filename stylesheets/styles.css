@@ -196,23 +196,23 @@ body{
 	border-color:#565656;
 }
 .list__item:nth-child(1)>a:hover{
-	color:#ffcd5c;
+	color:#000;
 }
 .list__item:nth-child(2)>a:hover{
-	color:#ffcd5c;
+	color:#ea4c89;
 }
 .list__item:nth-child(3)>a:hover{
-	color:#ffcd5c;
+	color:#287bbc;
 }
 .list__item:nth-child(4)>a:hover{
-	color:#ffcd5c;
+	color:#0079ff;
 }
 
 /*/////////////////////////////////////////////////////
 // adapters
 /////////////////////////////////////////////////////*/
 
-@media screen and (max-width:470px){
+@media screen and (max-width:600px){
 	body{
 		overflow-y:auto;
 	}
