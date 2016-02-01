@@ -196,16 +196,16 @@ body{
 	border-color:#565656;
 }
 .list__item:nth-child(1)>a:hover{
-	color:#000;
+	color:#ffcd5c;
 }
 .list__item:nth-child(2)>a:hover{
-	color:#ea4c89;
+	color:#ffcd5c;
 }
 .list__item:nth-child(3)>a:hover{
-	color:#287bbc;
+	color:#ffcd5c;
 }
 .list__item:nth-child(4)>a:hover{
-	color:#0079ff;
+	color:#ffcd5c;
 }
 
 /*/////////////////////////////////////////////////////
