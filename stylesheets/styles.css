@@ -20,7 +20,7 @@
 }
 
 ::selection{
-	background:#000000;
+	background:#fdc84a;
 }
 
 html,
@@ -28,12 +28,12 @@ body{
 	width:100%;
 	height:100%;
     	min-height: 100%;
-	border-left:10px solid #0A4DFF;
+	border-left:10px solid #282828;
 	overflow:hidden;
-	background: #FFFFFF;
+	background: #333333;
 	font-family:"Lato-Regular", sans-serif;
 	font-weight:normal;
-	color:#0A4dff;
+	color:#282828;
 }
 
 .wrapper{
@@ -127,7 +127,7 @@ body{
 
 .content{
 	font-weight:bold;
-	color:#0A4dff;
+	color:#282828;
 	margin-bottom:25px;
 }
 .content__title{
@@ -179,7 +179,7 @@ body{
 	white-space:nowrap;
 	overflow:hidden;
 	/*formatação*/
-	color:#0A4dff;
+	color:#282828;
 	outline:none;
 	text-decoration:none;
 	font-size:1.2em;
@@ -194,16 +194,16 @@ body{
 }
 
 .list__item:nth-child(1)>a:hover{
-	color:#000;
+	color:#fdc14a;
 }
 .list__item:nth-child(2)>a:hover{
-	color:#ea4c89;
+	color:#fdc14a;
 }
 .list__item:nth-child(3)>a:hover{
-	color:#287bbc;
+	color:#fdc14a;
 }
 .list__item:nth-child(4)>a:hover{
-	color:#0079ff;
+	color:#fdc14a;
 }
 
 /*/////////////////////////////////////////////////////
