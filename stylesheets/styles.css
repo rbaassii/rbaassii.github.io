@@ -58,6 +58,12 @@ body{
 	width:90%;
 	height:auto;
 }
+.content .footer{
+	float: left;
+}
+.footer{
+	clear: both;
+}
 .fade-in{
 	/*formatação inicial*/
 	opacity:0;
@@ -216,7 +222,7 @@ body{
 	}
 	.main{
 		vertical-align:top;
-		padding-top: 40px;
+		padding-top: 60px;
 	}
 	.social{
 		width:90%;
