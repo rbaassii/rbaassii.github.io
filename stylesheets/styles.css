@@ -43,6 +43,8 @@ body{
 .wrapper{
 	
 	border:20px solid #282828;
+	display: table;
+	
 }
 
 .main{
