@@ -210,9 +210,7 @@ body{
 .list__item:nth-child(4)>a:hover{
 	color:#fdc14a;
 }
-.list__item:nth-child(5)>a:hover{
-	color:#fdc14a;
-}
+
 
 /*/////////////////////////////////////////////////////
 // adapters
