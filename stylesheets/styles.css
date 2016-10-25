@@ -42,7 +42,6 @@ body{
 
 .wrapper{
 	height:100%;
-	display:table;
 	border:20px solid #282828;
 }
 
