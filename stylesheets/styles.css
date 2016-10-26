@@ -207,24 +207,22 @@ body{
 
 .list__item:nth-child(1)>a:hover{
 	color:#000000;
-	text-decoration: underline;
-
 }
 .list__item:nth-child(2)>a:hover{
 	color:#000000;
-	text-decoration: underline;
+	
 }
 .list__item:nth-child(3)>a:hover{
 	color:#000000;
-	text-decoration: underline;
+	
 }
 .list__item:nth-child(4)>a:hover{
 	color:#000000;
-	text-decoration: underline;
+	
 }
 .list__item:nth-child(5)>a:hover{
 	color:#000000;
-	text-decoration: underline;
+	
 }
 
 
