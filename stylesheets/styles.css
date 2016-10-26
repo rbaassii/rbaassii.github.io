@@ -206,7 +206,7 @@ body{
 }
 
 .list__item:nth-child(1)>a:hover{
-	color:#fdc14a;
+	color:#000000;
 	text-decoration: underline;
 
 }
