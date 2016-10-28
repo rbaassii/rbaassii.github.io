@@ -42,6 +42,8 @@ body{
 
 .wrapper{
 	border:20px solid #282828;
+	height:100%;
+	display: table;
 }
 
 .main{
@@ -244,3 +246,4 @@ body{
 		table-layout:auto;
 	}
 }
+/* @media screen and (min-height: 640px){
