@@ -24,7 +24,7 @@
 }
 
 ::selection{
-	background:#000000;
+	background:#00C86F;
 }
 
 
@@ -34,7 +34,7 @@ body{
 	height:100%;
     min-height: 100%;
 	overflow:hidden;
-	background: #fff;
+	background: #EFF3F6;
 	font-family:"Lato-Regular", sans-serif;
 	font-weight:normal;
 	color:#282828;
