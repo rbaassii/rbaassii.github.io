@@ -191,7 +191,7 @@ body{
 	white-space:nowrap;
 	overflow:hidden;
 	/*formatação*/
-	color:#00C86F;
+	color:#f8f8f8;
 	outline:none;
 	text-decoration: none;
 	font-size:1.2em;
@@ -206,7 +206,7 @@ body{
 }
 
 .list__item:nth-child(1)>a:hover{
-	color:#282828;
+	color:#00C86F;
 }
 .list__item:nth-child(2)>a:hover{
 	color:#00C86F;
