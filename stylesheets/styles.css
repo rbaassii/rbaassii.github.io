@@ -35,9 +35,9 @@ body{
     min-height: 100%;
 	overflow:hidden;
 	background: #EFF3F6;
-	font-family:"Lato-Regular", sans-serif;
+	font-family:"Lato-Light", sans-serif;
 	font-weight:normal;
-	color:#282828;
+	color:#999;
 }
 
 .wrapper{
@@ -191,7 +191,7 @@ body{
 	white-space:nowrap;
 	overflow:hidden;
 	/*formatação*/
-	color:#282828;
+	color:#00C86F;
 	outline:none;
 	text-decoration: none;
 	font-size:1.2em;
@@ -206,7 +206,7 @@ body{
 }
 
 .list__item:nth-child(1)>a:hover{
-	color:#00C86F;
+	color:#282828;
 }
 .list__item:nth-child(2)>a:hover{
 	color:#00C86F;
