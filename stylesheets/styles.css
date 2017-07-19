@@ -108,10 +108,10 @@ body{
 }
 .fade-in.footer{
 	-webkit-animation-delay:0.9s;
-	-moz-animation-delay:0.7s;
-	-ms-animation-delay:0.5s;
-	-o-animation-delay:0.3s;
-	animation-delay:0.1s;
+	-moz-animation-delay:0.9s;
+	-ms-animation-delay:0.9s;
+	-o-animation-delay:0.9s;
+	animation-delay:0.9s;
 }
 
 /*/////////////////////////////////////////////////////
