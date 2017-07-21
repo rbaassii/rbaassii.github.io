@@ -199,11 +199,11 @@ body{
 	line-height:1.2em;
 	border-bottom:2px solid transparent;
 	/*animação*/
-	-webkit-transition:color 0.2s ease-out, border-color 0.3s ease-out;
-	-moz-transition:color 0.2s ease-out, border-color 0.3s ease-out;
-	-ms-transition:color 0.2s ease-out, border-color 0.3s ease-out;
-	-o-transition:color 0.2s ease-out, border-color 0.3s ease-out;
-	transition:color 0.2s ease-out, border-color 0.3s ease-out;
+	-webkit-transition:color 0.2s ease-out, border-color 0.4s ease-out;
+	-moz-transition:color 0.2s ease-out, border-color 0.4s ease-out;
+	-ms-transition:color 0.2s ease-out, border-color 0.4s ease-out;
+	-o-transition:color 0.2s ease-out, border-color 0.4s ease-out;
+	transition:color 0.2s ease-out, border-color 0.4s ease-out;
 }
 
 .list__item:nth-child(1)>a:hover{
@@ -213,18 +213,14 @@ body{
 	color:#00C86F;
 }
 
-}
 .list__item:nth-child(3)>a:hover{
-	color:#00C86F;
-	
+	color:#00C86F;	
 }
 .list__item:nth-child(4)>a:hover{
-	color:#00C86F;
-	
+	color:#00C86F;	
 }
 .list__item:nth-child(5)>a:hover{
-	color:#00C86F;
-	
+	color:#00C86F;	
 }
 
 
