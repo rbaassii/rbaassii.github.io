@@ -24,7 +24,7 @@
 }
 
 ::selection{
-	background:#FBFBFB;
+	background:#1CB448;
 }
 
 
@@ -34,10 +34,10 @@ body{
 	height:100%;
     min-height: 100%;
 	overflow:hidden;
-	background: #EFF3F6;
+	background: #FBFBFB;
 	font-family: 'Barlow', sans-serif;
 	font-weight:normal;
-	color:#999;
+	color:#6E8790;
 }
 
 .wrapper{
