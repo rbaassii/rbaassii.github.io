@@ -223,6 +223,30 @@ body{
 	color:#00C86F;	
 }
 
+h1.header__title:hover::before {
+    content: '';
+    background-image: url(http://bassirenata.com/nice.png);
+    width: 30vw;
+    height: 40vh;
+    position: fixed;
+    background-size: 15vw;
+    top: 0;
+    left: 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: -1;
+
+}
+h1.header__title:hover{
+
+}
+
+.circle:before {
+  content: ' \25CF';
+  font-size: 4em;
+	color: #ff0202;
+
+}
 
 /*/////////////////////////////////////////////////////
 // adapters
